@@ -1,4 +1,4 @@
-# CmpE 160 - Project 3 - Marketplace Implementation
+# CmpE160 - Project 3 - Marketplace Implementation
 Market Implementation project I build during the Cmpe160 lectures in Spring 2021
 
 Project descriptions can be accessed through the pdf file in /WebContent/
